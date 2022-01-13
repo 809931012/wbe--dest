@@ -56,3 +56,10 @@ a {
   top: 4px;
   margin-right: 10px;
 }
+
+.layui-logo a {
+  color: #fff;
+}
+.xia {
+  margin-top: 10px;
+}
