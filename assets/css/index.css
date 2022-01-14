@@ -20,7 +20,6 @@ iframe {
 .layui-body {
   overflow: hidden;
 }
-
 a {
   transition: none !important;
 }
@@ -55,11 +54,4 @@ a {
   position: relative;
   top: 4px;
   margin-right: 10px;
-}
-
-.layui-logo a {
-  color: #fff;
-}
-.xia {
-  margin-top: 10px;
 }
